@@ -1,0 +1,30 @@
+.description {
+    font-weight: bold;
+    font-size: 18px;
+    text-align: right;
+}
+
+#headline {
+    color: gray;
+    font-size: 60px;    
+}
+
+.image {
+    background-image: url("https://purewows3.imgix.net/images/articles/2019_01/bulldog_728.jpg?auto=format,compress&cs=strip");
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
+.caption {
+    font-size: 20px;
+    font-style: italic;
+    display: block;
+    background-color: white;
+    margin-left: 20px;
+    padding: 10px;
+    position: relative;
+    top: 80%;
+    width: 15%;
+    opacity: 0.65
+}
