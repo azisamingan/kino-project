@@ -38,3 +38,8 @@ ul.a {
 ol.b {
     list-style-type: lower-roman;
 }
+
+ul.c {
+    list-style-type: square;
+}
+}
