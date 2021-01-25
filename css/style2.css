@@ -2,15 +2,17 @@
     font-weight: bold;
     font-size: 18px;
     text-align: right;
+    font-family: pt sans caption;
 }
 
 #headline {
-    color: gray;
-    font-size: 60px;    
+    color: rgb(176, 52, 180);
+    font-size: 75px;    
+    font-family: oriya mn;
 }
 
 .image {
-    background-image: url("https://purewows3.imgix.net/images/articles/2019_01/bulldog_728.jpg?auto=format,compress&cs=strip");
+    background-image: url("https://www.everymancinema.com/image?url=https://cms.everymancinema.com//media/1127/sotg.jpg");
     background-size: cover;
     background-position: center;
     height: 900px;
@@ -27,4 +29,8 @@
     top: 80%;
     width: 15%;
     opacity: 0.65
+}
+
+.jumbotron {
+    background-color: #FFE227 !important;
 }
