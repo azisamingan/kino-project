@@ -1,14 +1,15 @@
 .description {
     font-weight: bold;
     font-size: 18px;
-    text-align: right;
+    text-align: left;
     font-family: pt sans caption;
 }
 
 #headline {
     color: rgb(176, 52, 180);
-    font-size: 75px;    
+    font-size: 100px;    
     font-family: oriya mn;
+    text-align: center;
 }
 
 .image {
@@ -33,4 +34,9 @@
 
 .jumbotron {
     background-color: #FFE227 !important;
+}
+
+.carousel-inner img {
+    width: 90%;
+    height: 90%;
 }
