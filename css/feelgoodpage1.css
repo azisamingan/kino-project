@@ -1,0 +1,27 @@
+#headline {
+    color: #8F8BF0;
+    font-size: 500%;
+    font-family: w3-cursive;
+    text-align: center;
+    
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+}
+
+#icon {
+    color: #ddb6b6;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    z-index: -1;
+}
+body {
+    background-color: #ffffbf;
+}
