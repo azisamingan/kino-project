@@ -1,0 +1,35 @@
+
+
+.navbar-brand {
+    font-size: 300% !important;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 20px; 
+}
+
+.navbar-custom {
+    font-size: 300%;
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px;
+}
+
+#headline {
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 500%;
+}
+
+.right {
+    position: absolute;
+    right: 20px;
+    width: 300px;
+}
+
+body {
+    background-color: #D3DFE3 !important;
+}
+
+footer {
+    background-color: #D3DFE3;
+    padding: 15px;
+    text-align: justify;
+}
