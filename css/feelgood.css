@@ -5,18 +5,14 @@
     font-weight: bolder;
     font-size: 50px !important;
     font-family: 'Montserrat', sans-serif;
-    margin-left: 20px;
-    margin-top: -18%; 
-    position: fixed;
+    
 }
 
 .navbar-custom {
     font-weight: bolder;
     font-size: 50px;
-    font-family: 'Montserrat', sans-serif;
-    margin-left: 20px;
-    margin-top: -5%;
-    position: fixed;
+    font-family: 'Montserrat', sans-serif;  
+    
 }
 
 .nav-link-gallery {
@@ -36,27 +32,13 @@
     font-weight: bolder;
     font-family: 'Montserrat', sans-serif;
     font-size: 150px;
-    margin-left: 200%;
-    margin-top: 30%;
-    position: relative;
-}
-
-img {
-    position: fixed;
-    right: 33%;
-    z-index: -1;
-    margin-top: 10%;
-}
-.box {
-    right: 33%;
+    
 }
 
 p {
     font-family: 'Montserrat', sans-serif;
-    position: fixed;    
-    left: 68%;
-    margin-top: 15%;
-    margin-right: 20px;
+    font-size: 15px;
+    
 }
 
 body {
