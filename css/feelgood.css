@@ -43,12 +43,24 @@ p {
     font-size: 15px;    
 }
 
+.body-home {
+    background-color: #94B5C0;
+}
+
 .body-about {
     background-color: #D3DFE3 !important;
 }
 
-.body-home {
-    background-color: #94B5C0;
+.body-gallery {
+    background-color: #754681;
+}
+
+.body-memories {
+    background-color: #AD6C80;
+}
+
+.body-playlists {
+    background-color: #EE99A0;
 }
 
 .nav-link-home-gallery {
